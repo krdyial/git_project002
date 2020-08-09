@@ -15,8 +15,12 @@ public class FirstClass {
 		System.out.println("first commit from karadayi branch");
 		
 		System.out.println("The second commit from local karadayi");
+
 		System.out.println("This is the third commit from local karadayi");
 		
+
+		System.out.println("This is our conflict");
+
 		
 	}
 
